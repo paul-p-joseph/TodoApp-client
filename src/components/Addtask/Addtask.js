@@ -5,9 +5,6 @@ import './Addtask.css'
 
 const Addtask = () => {
 
-    var today = new Date();
-    const date = today.getFullYear() + '-' + (today.getMonth() + 1) + '-' + today.getDate();
-
     const [newTaskTitle, setNewTaskTitle] = useState('');
     const [newTaskDeadline, setNewTaskDeadline] = useState('');
 
