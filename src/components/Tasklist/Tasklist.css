@@ -1,0 +1,35 @@
+.tasklist-container {
+  
+}
+
+.task-list {
+ display: flex;
+ background-color:silver;
+ box-shadow: 2px 5px 20px grey;
+ border-radius: 15px;
+ align-items: center;
+ margin-top: 10px;
+ gap: 10px;
+ margin: 20px;
+
+}
+
+.edit-btn-container{
+    padding: 15px;
+    display: flex;
+    justify-content: center;
+    
+}
+
+.edit-btn {
+ cursor: pointer;
+ width: 25%;
+ border-radius: 15px;
+ 
+
+}
+.tasklist-content {
+    display: flex;
+    
+    gap: 25px;
+}

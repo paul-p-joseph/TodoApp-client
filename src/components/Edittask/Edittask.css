@@ -1,0 +1,68 @@
+.edittask-container{
+    display: flex;
+    justify-content: center;
+    gap: 15px;
+    
+}
+
+.edittask-inside-container{
+   
+    gap: 15px;
+    width: 50%;
+}
+.done-btn-container{
+    display: flex;
+    justify-content: center;
+    gap: 15px;
+    
+}
+
+.edit-mode-btn{
+    border-radius: 15px;
+    background-color: silver;
+}
+
+.edit-task{
+   
+    margin: 10px;
+}
+.edit-task-content{
+  
+    display: flex;
+    justify-content: center;
+    background-color:silver;
+    box-shadow: 2px 5px 20px grey;
+    border-radius: 15px;
+    align-items: center;
+    margin-top: 10px;
+    margin: 20px;
+   
+}
+.edit-task-title{
+    padding: 7px;
+    margin: 2px;
+}
+
+.edit-task-deadline-input{
+    margin: 2px;
+    padding: 3px;
+}
+
+.btns-div{
+    display: flex;
+    justify-content: center;
+    padding: 5px;
+}
+
+.update-btn{
+   margin: 3px;
+   background-color:silver;
+   border-radius: 15px;
+}
+
+.delete-btn{
+    margin: 3px;
+    background-color:black;
+    color: silver;
+    border-radius: 15px;
+}

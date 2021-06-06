@@ -1,0 +1,16 @@
+.header {
+ background-color:silver;
+ width:auto;
+padding: 1%;
+border-bottom: 5px solid black;
+}
+
+.header h3 {
+    text-align: left;
+    font-weight: 400;
+    
+}
+
+.header h1 {
+    text-align: center;
+}

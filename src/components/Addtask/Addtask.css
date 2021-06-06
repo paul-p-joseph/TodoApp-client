@@ -1,0 +1,18 @@
+.addtask-container {
+    display: flex;
+    justify-content: center;
+    box-shadow: 2px 5px 20px grey;
+}
+.child{
+    
+    padding:2rem;
+    display: flex;
+    flex-direction: column;
+    gap:10px;
+    width:25%;
+}
+.add-btn{
+    border-radius: 15px;
+}
+
+
